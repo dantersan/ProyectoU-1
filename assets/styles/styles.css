@@ -1,0 +1,19 @@
+body{
+background-color: orange;
+color: white;
+}
+
+/* Tener presente que organizamos los estilos de arriba a abajo */
+h1{
+    font-size: 40px;
+    color: purple;
+}
+
+p{
+   font-size: 20px; 
+}
+
+img{
+    width: 600px;
+    height: auto;
+}
